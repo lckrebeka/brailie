@@ -49,6 +49,12 @@ h1 {
     color: white;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 65px;
+    letter-spacing: 5px;
+    text-align: center;
+
 }
 h2 {
     color: white;
@@ -56,4 +62,37 @@ h2 {
     text-transform: uppercase;
     font-weight: 200;
     letter-spacing: 8px;
+    font-size: 24px;
+    line-height: 34px;
+    letter-spacing: 10px;
+    text-align: center;
+
+}
+.content{
+    height: calc(100% - 100px);
+}
+.about-me-section{
+    padding-top: 103px;
+}
+.about-text{
+    color: #9EB9D7;
+    font-family:'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.about-title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+
 }
